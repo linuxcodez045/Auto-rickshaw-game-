@@ -1,0 +1,9 @@
+{
+  "name": "auto-rickshaw-drift-league",
+  "version": "1.0.0",
+  "private": true,
+  "description": "3D browser drift racing game - static site for Vercel",
+  "scripts": {
+    "start": "npx serve . -l 8000"
+  }
+}
